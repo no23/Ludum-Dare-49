@@ -1,0 +1,62 @@
+﻿  7zAlloc.c
+  7zArcIn.c
+  7zBuf.c
+  7zBuf2.c
+  7zCrc.c
+  7zCrcOpt.c
+  7zDec.c
+  7zFile.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  7zStream.c
+  Aes.c
+  AesOpt.c
+  Alloc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Bcj2.c
+  Bcj2Enc.c
+  Bra.c
+  Bra86.c
+  BraIA64.c
+  CpuArch.c
+  Delta.c
+  DllSecur.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  Compiling...
+  LzFind.c
+  LzFindMt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Lzma2Dec.c
+  Lzma2DecMt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Lzma2Enc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Lzma86Dec.c
+  Lzma86Enc.c
+  LzmaDec.c
+  LzmaEnc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  LzmaLib.c
+  MtCoder.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  MtDec.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Ppmd7.c
+  Ppmd7Dec.c
+  Ppmd7Enc.c
+  Sha256.c
+  Sort.c
+  Threads.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Xz.c
+  XzCrc64.c
+  Generating Code...
+  Compiling...
+  XzCrc64Opt.c
+  XzDec.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  XzEnc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  XzIn.c
+  Generating Code...
+  lzma.vcxproj -> C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\build\lib\Debug\lzma.lib

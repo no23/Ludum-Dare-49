@@ -1,0 +1,85 @@
+﻿  BlendMode.cpp
+  CircleShape.cpp
+  Color.cpp
+  ConvexShape.cpp
+  Font.cpp
+  GLCheck.cpp
+  GLExtensions.cpp
+  GLLoader.cpp
+  Glsl.cpp
+  Image.cpp
+  ImageLoader.cpp
+C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\Unstable\External\SFML-2.5.1\extlibs\headers\stb_image\stb_image_write.h(233,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\Unstable\External\SFML-2.5.1\extlibs\headers\stb_image\stb_image_write.h(629,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\Unstable\External\SFML-2.5.1\extlibs\headers\stb_image\stb_image_write.h(1013,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RectangleShape.cpp
+  RenderStates.cpp
+  RenderTarget.cpp
+  RenderTexture.cpp
+  RenderTextureImpl.cpp
+  RenderTextureImplDefault.cpp
+  RenderTextureImplFBO.cpp
+  RenderWindow.cpp
+  Shader.cpp
+  Generating Code...
+  Compiling...
+  Shape.cpp
+  Sprite.cpp
+  Text.cpp
+  Texture.cpp
+  TextureSaver.cpp
+  Transform.cpp
+  Transformable.cpp
+  Vertex.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  View.cpp
+  MainWin32.cpp
+  Clock.cpp
+  Err.cpp
+  FileInputStream.cpp
+C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\Unstable\External\SFML-2.5.1\src\SFML\System\FileInputStream.cpp(69,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lock.cpp
+  MemoryInputStream.cpp
+  Mutex.cpp
+  Sleep.cpp
+  String.cpp
+  Generating Code...
+  Compiling...
+  Thread.cpp
+  ThreadLocal.cpp
+  Time.cpp
+  ClockImpl.cpp
+C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\Unstable\External\SFML-2.5.1\src\SFML\System\Win32\ClockImpl.cpp(46,35): warning C4996: 'GetVersion': was declared deprecated
+  MutexImpl.cpp
+  SleepImpl.cpp
+  ThreadImpl.cpp
+  ThreadLocalImpl.cpp
+  Clipboard.cpp
+  Context.cpp
+  Cursor.cpp
+  GlContext.cpp
+  GlResource.cpp
+  Joystick.cpp
+  JoystickManager.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Sensor.cpp
+  SensorManager.cpp
+  Touch.cpp
+  Generating Code...
+  Compiling...
+  VideoMode.cpp
+  ClipboardImpl.cpp
+  CursorImpl.cpp
+  InputImpl.cpp
+  JoystickImpl.cpp
+  SensorImpl.cpp
+  VideoModeImpl.cpp
+  WglContext.cpp
+  WglExtensions.cpp
+  WindowImplWin32.cpp
+  Window.cpp
+  WindowImpl.cpp
+  Generating Code...
+  SFML.vcxproj -> C:\Users\Josh\Documents\Workspace\Lavender Projects\lavender\Unstable\build\lib\Release\SFML.lib
